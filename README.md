@@ -5,7 +5,7 @@ Hi there 👋
 <li>🌱 I’m currently learning Android.</li>
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/chaithanyaguptha/" rel="nofollow">Chaithanya Guptha Gollapalli</a></li>
-<li>⚡ Fun fact: I love to code!</li>
+<li>⚡ I love to code!</li>
 </ul>
 
 

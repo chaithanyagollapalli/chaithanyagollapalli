@@ -2,7 +2,7 @@ Hi there 👋
 
 <ul>
   
-<li>🌱 I’m currently learning Android.</li>
+<li>🌱 Aspiring Full Stack Android Developer</li>
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/chaithanyaguptha/" rel="nofollow">Chaithanya Guptha Gollapalli</a></li>
 <li>⚡ I love to code!</li>

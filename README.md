@@ -4,7 +4,7 @@
   
 <li> I'm an Aspiring Android Developer.</li>
 <li>I love to code, solve problems, watch movies, eat food and blog!</li>
-<li> Reach me on <a href="https://www.linkedin.com/in/chaithanyaguptha/" rel="nofollow">LinkedIn</a>.</li>
+<li> You can reach out to me on <a href="https://www.linkedin.com/in/chaithanyaguptha/" rel="nofollow">LinkedIn</a>.</li>
 <li>You can find my work on my <a href="https://chaithanya-portfolio.netlify.app/" rel="nofollow">Portfolio</a>.
 </ul>
 

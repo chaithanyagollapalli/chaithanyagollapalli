@@ -20,7 +20,4 @@
 
 ![Chaithanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaithanyagollapalli&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanyagollapalli&layout=compact&theme=radical)
-
-
 ![Chaithanya's github activity graph](https://activity-graph.herokuapp.com/graph?username=chaithanyagollapalli&theme=dracula)
